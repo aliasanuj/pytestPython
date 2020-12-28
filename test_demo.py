@@ -8,3 +8,5 @@ def test_calc_sum():
 def test_calc_multiply():
     total = demo.calc_multiply(10, 5)
     assert total == 50
+
+
